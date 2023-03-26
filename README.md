@@ -5,3 +5,4 @@ config.js dosyasına token yazarak kullanabilirsiniz. Dilerseniz index.js dosyas
 
 
 Destek için [discord.gg/egemen](https://discord.gg/egemen) adresine gelebilirsiniz.
+Destek için [MekanSenin.com.tr](https://mekansenin.com.tr) forum adresini kullanabilirsiniz.
